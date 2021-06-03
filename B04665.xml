@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Penalties by several statutes upon justices of the peace, constables, churchwardens, overseers of the poor, and other officers that neglect their duty, necessary to be known to them and others.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04665</idno><idno type="EEBO-CITATION">51784608</idno>
+  <idno type="VID">175018</idno>
+  <idno type="EEBO-PROQUEST">2240890354</idno>
+  
+            <idno type="STC">Wing P1135AA</idno>
+            <idno type="STC">ESTC R181598</idno>
+            <idno type="OCLC">51784608</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175018)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2709:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Penalties by several statutes upon justices of the peace, constables, churchwardens, overseers of the poor, and other officers that neglect their duty, necessary to be known to them and others.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Braddyll, and are to be sold by Rich. Baldwin ...,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>MDCXCIII.][1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Justices of the peace --  England --  17th century --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Peace officers --  England --  17th century --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Courts --  Officials and employees --  England --  17th century --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Surveyors --  England --  17th century --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175018:1"/>
+            <head>PENALTIES BY SEVERAL STATUTES UPON <hi>Justices</hi> of the <hi>Peace, Constables, Churchwardens, Over<g ref="char:EOLhyphen"/>seers</hi> of the <hi>Poor,</hi> and other <hi>Officers</hi> that neglect their Duty, Necessary to be known to Them and Others.</head>
+            <p>
+               <hi>JVstices of the Peace,</hi> shall keep thir Sessions eve<g ref="char:EOLhyphen"/>ry Quarter of the Year, on pain to be punished at the discretion of the Kings Council, 36 <hi>E.</hi> 3. <hi>cap.</hi> 12. 2 <hi>R.</hi> 2. <hi>cap.</hi> 10. 2 <hi>H.</hi> 5. <hi>cap.</hi> 4.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> Not doing their Duty in cases of Forcible Entry or Riot are Indictable, 15 <hi>R.</hi> 2. <hi>cap.</hi> 2. Style<hi>'s Rep.</hi> 246.</p>
+            <p>In case of a Riotous Assembly or Rout of People, Two Justices of the Peace, and the Sheriff, with the Power of the County (if needs be) shall Arrest them, and the said Justices shall Record that which they shall find so done in their presence against Law, on pain of One hundred Pounds, 13 <hi>H.</hi> 4. <hi>cap.</hi> 7.</p>
+            <p>
+               <hi>The Lord Chancellor,</hi> As soon as he has knowledge of a Riot-assembly or Rout, shall cause the King's Writ to be sent to the Justices of the Peace and Sheriff, that they shall put the Statute 3 <hi>H.</hi> 4. <hi>cap.</hi> 7. in Execution, on pain of One hundred Pounds: And if no Writ comes to them, they shall not be excused of the said pain if they execute not the said Statute, 2 <hi>H.</hi> 5. <hi>cap.</hi> 8.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> That take Bail for Suspition of Felony, and not certifie the Recognizance to the next General Sessions, or Goal-delivery, on pain of Ten Pounds, 3 <hi>H.</hi> 7. <hi>cap.</hi> 3.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> At every Quarter-Sessions are to cause the Proclamation annexed to the Statute 4 <hi>H.</hi> 7. <hi>cap.</hi> 12. to be openly read on pain of Twenty Shillings each.</p>
+            <p>
+               <hi>Clerk of the Peace.</hi> If he takes above Twelve-pence for Enrolling a Bargain and Sale of Lands under Forty Shillings, he is Indictable, 27 <hi>H.</hi> 8. <hi>cap.</hi> 16.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> That take a Recognizance of one Licensed to keep an Ale-house, and certifies not the same to the next Sessions, forfeits Three Pounds six Shillings and eight pence, 5 <hi>&amp;</hi> 6 <hi>E.</hi> 6. <hi>cap.</hi> 25.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> Must take the Examination and the Information against a Felon in Writing, and bind some to Prosecute him on pain to be fined by the Justices of Goal-delivery, 1 <hi>&amp;</hi> 2 <hi>P. &amp; M.</hi> cap. 17. and 2 <hi>&amp;</hi> 3 <hi>P. &amp; M. cap.</hi> 10.</p>
+            <p>
+               <hi>Surveyors,</hi> Of the Highway duly Chosen, that re<g ref="char:EOLhyphen"/>fuse to serve, forfeit Twenty Shillings each, 2 <hi>&amp;</hi> 3 <hi>P. &amp; M. cap.</hi> 8</p>
+            <p>
+               <hi>No Officer,</hi> Or other shall take above Four-pence for the Impounding of any Distress on pain of Five Pounds. 1 <hi>&amp;</hi> 2 <hi>P. &amp; M, cap.</hi> 12.</p>
+            <p>
+               <hi>High Constable,</hi> To make true Account of what Money he Collects upon the Estreats for the Highways, on pain of Forty Shillings, 2 <hi>&amp;</hi> 3 <hi>P. &amp; M. cap.</hi> 8.</p>
+            <p>
+               <hi>Constables,</hi> Not punishing Artificers and other Per<g ref="char:EOLhyphen"/>sons able to Labour, and will not in Harvest-time, by putting them in the Stocks, forfeit Forty Shillings, 5 <hi>Eliz. cap.</hi> 4.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> That are absent at the Set<g ref="char:EOLhyphen"/>ting of the Rates of Wages for Servants and Labourers, forfeits Ten Pounds, 5 <hi>Eliz. cap.</hi> 4.</p>
+            <p>
+               <hi>Clerk of the Peace,</hi> If he takes above Two Shillings for a License for a Badger or Drover, he is Indictable, 5 <hi>Eliz. cap.</hi> 12.</p>
+            <p>
+               <hi>Surveyor,</hi> That presents not the Defaults in the Highways to the next Justice of the Peace, forfeits For<g ref="char:EOLhyphen"/>ty Shillings, 5 <hi>Eliz. cap.</hi> 13.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> To whom such Presentment shall be made shall certifie the same to the next General Sessions, on pain of One hundred Pounds, 5 <hi>Eliz. cap.</hi> 13.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> To whom any Bulls, Wri<g ref="char:EOLhyphen"/>tings, Instruments, or other Superstitious things from the See of <hi>Rome</hi> shall be shewed, uttered, or declared, and do not in fourteen days signifie the same to a Privy Council, incurs a Premunire, 13 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>Churchwardens</hi> Not levying the Tax for Relief of Prisoners in Common Goals, and paying the same to the High Constable, forfeits Five Pounds, 14 <hi>Eliz. cap.</hi> 5.</p>
+            <p>
+               <hi>High Constable,</hi> Not paying what Sums of Money he shall receive from the said Churchwardens to the Col<g ref="char:EOLhyphen"/>lectors for the said Prisons, forfeits Five Pounds, 14 <hi>Eliz. cap.</hi> 5.</p>
+            <p>
+               <hi>Iustice of the Peace,</hi> To inform a Privy Council within eight and twenty days of a Priest or Jesuit to him discovered, on pain of Two hundred Marks, 27 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> Must certifie the Oath and Submission of a Priest or Jesuit into <hi>Chancery</hi> in three Months, on pain of One hundred Pounds, 27 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>Constables and Headboroughs,</hi> That do not their best endeavours to apprehend Rogues, Vagabonds and sturdy Beggars, and cause them to be punished, forfeits Ten Shillings, 39 <hi>Eliz. cap.</hi> 4.</p>
+            <p>
+               <hi>Iustice of the Peace,</hi> That neglect his Duty in putting in Execution the Statute of 39 <hi>Eliz. cap.</hi> 20. against Stretching and Tentering of Northern Cloth, forfeits Five Pounds.</p>
+            <p>
+               <hi>Overseers of the Poor,</hi> That meet not Monthly, nor will account in four days after the year, and new
+<pb n="2" facs="tcp:175018:2"/> ones named, or neglect their Office, for every default they forfeit Twenty Shillings, 43 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>Churchwardens and Overseers,</hi> Of the Poor, that refuse to account, to be Committed to the Common Goal until they make a true account. 43 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> If there be no Nomination yearly of Overseers of the Poor; forfeit Five Pounds, 43 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>Churchwardens,</hi> Of every Parish, shall truly Col<g ref="char:EOLhyphen"/>lect and pay over to the High Constable the Tax set by the Justices of the Peace for the Relief of Poor Pri<g ref="char:EOLhyphen"/>soners in the <hi>Kings-Bench, &amp;c.</hi> on pain of Ten Shillings, 43 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>High Constable,</hi> If he neglects to pay the said Rate to the Treasurer for the County, he forfeits Twenty Shillings. 43 <hi>Eliz. cap.</hi> 2.</p>
+            <p>
+               <hi>Treasurer,</hi> Of the County chosen, and refuse to serve or to account (if he serves) Fine able at the Quarter-Sessions, which Fine at least must be Three Pounds, 43 <hi>Eliz.</hi> cap. 2.</p>
+            <p>
+               <hi>Constables,</hi> Refusing to punish Lewd Persons that shall Cut, or unlawfully take away any Corn or Grain, dig up Fruit-trees, Rob any Orchard or Garden, Break or Cut any Hedge, Pails, Rails, or Fence, <hi>&amp;c.</hi> shall be Committed to the County Goal, till they cause them to be punished, 43 <hi>Eliz.</hi> cap. 7.</p>
+            <p>
+               <hi>Constables,</hi> Not punishing Rogues and Vagabonds according to the Statue of 39 <hi>Eliz.</hi> cap. 4. Forfeits Twen<g ref="char:EOLhyphen"/>ty Shillings, 1 <hi>Jac.</hi> cap. 7.</p>
+            <p>
+               <hi>Constable and Churchwardens,</hi> Neglecting their Duty, in Levying the Penalty upon Victualler, for sus<g ref="char:EOLhyphen"/>fering Tippling in his House, Forfeit Forty Shillings 1 <hi>Jac.</hi> cap. 9.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> Whereof two at least to take the Submission of one Reconciled to the See of <hi>Rome,</hi> within six days after his return into <hi>England,</hi> and certi<g ref="char:EOLhyphen"/>fie the same at the next Quarter Sessions, upon pain of Forty Pounds, 3 <hi>Jac.</hi> cap. 4.</p>
+            <p>
+               <hi>Constables and Churchwardens,</hi> Shall once a Year present the Monthly absence of Popish Recusants, and their Children, if above Nine Years Old, on pain of Twenty Shillings, 3 <hi>Jac.</hi> cap. 4.</p>
+            <p>
+               <hi>Clerk of the Peace,</hi> That does not Record their Pre<g ref="char:EOLhyphen"/>sentment in Sessions, Forfeits Forty Shillings, 3 <hi>Jac.</hi> cap. 4.</p>
+            <p>
+               <hi>Churchwardens and Overseers,</hi> Not distributing the Money they receive upon the account of one Selling Ale to an Unlicensed Ale-house-keeper amongst the Poor, forfeit double what they receive, 4 <hi>Jac.</hi> cap. 4.</p>
+            <p>
+               <hi>Constable,</hi> Neglecting his Duty in Executing a War<g ref="char:EOLhyphen"/>rant of Distress upon the Goods of one Convi<g ref="char:EOLhyphen"/>cted of Drunkenness, or putting of him in the Stocks for want of distress, forfeits Ten Shillings, 4 <hi>Jac.</hi> cap. 5.</p>
+            <p>
+               <hi>Iustices of the Peace,</hi> If there be no House of Cor<g ref="char:EOLhyphen"/>rection in the County, forfeit Five Pounds, 7 <hi>Jac.</hi> cap. 4.</p>
+            <p>
+               <hi>Constables,</hi> Not appearing at the petty Sessions the next Morning after a general search, may be Fined, not exceeding Forty Shillings, 7 <hi>Jac.</hi> cap. 4.</p>
+            <p>
+               <hi>Governour of the House of Correction,</hi> Is to give a true account to the Justices of the Peace at every Quar<g ref="char:EOLhyphen"/>ter Sessions, of all Persons Committed to his Custody, and if any of them be let abroad, or otherwise escape, not being discharged, he is Fineable at the discretion of the Justices in the Quarter Sessions, 7 <hi>Jac.</hi> cap. 4.</p>
+            <p>
+               <hi>Constables or Churchwardens,</hi> Neglecting to Ex<g ref="char:EOLhyphen"/>ecute a Warrant against one that Sells Ale without License, shall be Committed to the common Goal, un<g ref="char:EOLhyphen"/>less they pay Forty Shillings, 3 <hi>Car.</hi> 1. cap. 3.</p>
+            <p>
+               <hi>None to be Iustices,</hi> Of the Peace in any County in <hi>England,</hi> if he has not Lands or Tenements to the value of Twenty Pounds a Year, and if such be put in the Commission, and acts, forfeits Twenty Pounds, and be put out; Provided the <hi>Lord Chancellor</hi> shall have Power to put discreet Persons, learned in the Law, in such Commis<g ref="char:EOLhyphen"/>sions, 18 <hi>H.</hi> 7. <hi>cap.</hi> 11.</p>
+            <p>
+               <hi>Constables and Surveyors,</hi> Of the High-ways, that suffer any Wagons or Carts to pass through their respe<g ref="char:EOLhyphen"/>ctive Limits with more than five Horses or Beasts at length, shall forfeit a Sum, not exceeding forty shiilings, 22 <hi>Car. cap.</hi> 12.</p>
+            <p>
+               <hi>Constables or Surveyors,</hi> That do neglect to put the former Statutes for better repairing and amending of the High-ways, in execution▪ forfeit a Sum not exceeding forty shillings, 22 <hi>Car.</hi> 2. <hi>cap.</hi> 2.</p>
+            <p>
+               <hi>Deputy Lieutenants,</hi> May require the Constables to provide and furnish so many sufficient Foot Arms in a reasonable time, and place appointed, under the penal<g ref="char:EOLhyphen"/>ty of Forty Shillings, 15 <hi>Car.</hi> 2. cap. 4.</p>
+            <p>
+               <hi>Bayliff of Yarmouth,</hi> Is to appoint Packers of <hi>Butter,</hi> before the first of <hi>July,</hi> Yearly, on pain of a Hundred Pounds, 15 <hi>Car.</hi> 2. cap. 16.</p>
+            <p>
+               <hi>Constable,</hi> Permitting <hi>Tobacco</hi> to grow by the space of Fourteen Days after a Warrant is delivered him, forfeits for every Rod Planted or Sowed, Five Shillings, 22 and 23 <hi>Car.</hi> 2. cap. 26. 3 and 4 <hi>W.</hi> and <hi>M.</hi> fol. 479.</p>
+            <p>
+               <hi>Overseers,</hi> Of the Poor, must give an account of all Burials within their Parishes, and the Names and Qua<g ref="char:EOLhyphen"/>lities of the Persons Interred, and of such Certificats as came to their hands from the Minister of the Parish, that the Persons within mentioned were Interred con<g ref="char:EOLhyphen"/>trary to the Statute 30 <hi>Car.</hi> 2. fol. 49. on pain of Five Pounds.</p>
+            <p>
+               <hi>Scavengers or Rakers,</hi> Every day except <hi>Sun<g ref="char:EOLhyphen"/>day,</hi> shall cause a Bell to be Rung in the Streets, to give notice to the Inhabitants to bring out their Dust, Dirt, Ashes and Soil, and carry the same away, on pain of For<g ref="char:EOLhyphen"/>ty Shillings each Default, 2 <hi>W.</hi> and <hi>M.</hi> fol. 283.</p>
+            <p>
+               <hi>Scavengets,</hi> Duly Chosen, upon notice, seven days being past, refusing to serve, forfeits Ten Pounds, 2 <hi>W.</hi> and <hi>M.</hi> fol. 287.</p>
+            <p>
+               <hi>Scavengers.</hi> To account within Eight and Twenty days after the Election of new ones, and pay what Mo<g ref="char:EOLhyphen"/>ney they have in their hands unto them, in Default thereof, the Justice of the Peace may Commit them to Prison, till they make true account and pay what Money they have in their hands, 2 <hi>W.</hi> and <hi>M.</hi> fol. 290.</p>
+            <p>
+               <hi>Churchwardens and Overseers,</hi> Of the Poor, that neglect to cause to be read notice in Writing of ones co<g ref="char:EOLhyphen"/>ming into the Parish in order to settle himself there, forfeits Forty Shillings, 3 and 4 <hi>W.</hi> and <hi>M.</hi> fol. 291.</p>
+            <p>
+               <hi>Churchwardens and Overseers,</hi> Of the Poor, that will not obey a Warrant under the Hand and Seal of two Justices of the Peace for the removal of a Poor Person from one Parish to another, forfeits Five Pounds, 3 and 4 <hi>W.</hi> and <hi>M.</hi> fol. 294.</p>
+            <p>
+               <hi>Surveyors,</hi> Of the High-way, being duly made, refusing to serve, forfeits Five Pounds, 3 and 4 <hi>W.</hi> and <hi>M.</hi> fol. 304.</p>
+            <p>
+               <hi>Surveyors,</hi> In Fourteen Days after acceptance of the Office to View the High-ways, Bridges and Causeys, and every four Months after, and to present upon Oath to some Justice of the Peace of the same Division, the State and Condition of them, on pain of Five Pounds, 3 <hi>&amp;</hi> 4 <hi>W.</hi> and <hi>M.</hi> fol. 308.</p>
+            <p>
+               <hi>Surveyors,</hi> Of the High-ways, neglecting their du<g ref="char:EOLhyphen"/>ty required of them by the Statute of 3 and 4 <hi>W.</hi> and <hi>M.</hi> fol. 310. forfeits for every Default Forty Shillings.</p>
+            <p>
+               <hi>Iustice of the Peace,</hi> That shall neglect or refuse to do what is required of him by the said Act made in the 3 and 4 <hi>W.</hi> and <hi>M.</hi> Intituled an Act, <hi>For better Re<g ref="char:EOLhyphen"/>pairing and Mending the High-ways,</hi> forfeits Five Pounds.</p>
+            <p>
+               <hi>Constable,</hi> Duly chosen, and refusing to take his Oath, is Indictable, <hi>Allen</hi>'s Report, 79.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Tho. Braddyll, <hi>and are to be Sold by</hi> Rich. Baldwin, <hi>near the</hi> Oxford-Arms <hi>in</hi> Warwick-Lane, <hi>MDCXCIII.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
